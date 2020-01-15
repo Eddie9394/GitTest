@@ -1,0 +1,15 @@
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\bin\Debug\netcoreapp3.0\GetYahooStockData.exe
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\bin\Debug\netcoreapp3.0\GetYahooStockData.deps.json
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\bin\Debug\netcoreapp3.0\GetYahooStockData.runtimeconfig.json
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\bin\Debug\netcoreapp3.0\GetYahooStockData.runtimeconfig.dev.json
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\bin\Debug\netcoreapp3.0\GetYahooStockData.dll
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\bin\Debug\netcoreapp3.0\GetYahooStockData.pdb
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\obj\Debug\netcoreapp3.0\GetYahooStockData.csprojAssemblyReference.cache
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\obj\Debug\netcoreapp3.0\GetYahooStockData.AssemblyInfoInputs.cache
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\obj\Debug\netcoreapp3.0\GetYahooStockData.AssemblyInfo.cs
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\obj\Debug\netcoreapp3.0\GetYahooStockData.dll
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\obj\Debug\netcoreapp3.0\GetYahooStockData.pdb
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\obj\Debug\netcoreapp3.0\GetYahooStockData.csproj.CopyComplete
+C:\Users\ECLao\source\repos\GetYahooStockData\GetYahooStockData\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
